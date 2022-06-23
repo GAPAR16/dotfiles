@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gayathri.paramaguru@ingka.ikea.com
+	name = Gayathri Paramaguru
